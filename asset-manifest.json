@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/turing-technologies/static/css/main.6f82f4fe.css",
+    "main.js": "/turing-technologies/static/js/main.49b26d82.js",
+    "static/js/787.4f350819.chunk.js": "/turing-technologies/static/js/787.4f350819.chunk.js",
+    "static/media/AvenirLTStd-Black.otf": "/turing-technologies/static/media/AvenirLTStd-Black.7ce894e12078ca8c5134.otf",
+    "index.html": "/turing-technologies/index.html",
+    "main.6f82f4fe.css.map": "/turing-technologies/static/css/main.6f82f4fe.css.map",
+    "main.49b26d82.js.map": "/turing-technologies/static/js/main.49b26d82.js.map",
+    "787.4f350819.chunk.js.map": "/turing-technologies/static/js/787.4f350819.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f82f4fe.css",
+    "static/js/main.49b26d82.js"
+  ]
+}
